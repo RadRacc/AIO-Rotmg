@@ -1,2 +1,225 @@
-v0.0.1
-Test
+v0.0.1 - Initial Release
+
+    Added basic game client integration.
+
+    Implemented rudimentary connection stability.
+
+    Introduced initial UI framework.
+
+v0.0.2 - Bug Fixes & Minor Enhancements
+
+    Fixed connection drops on startup.
+
+    Improved error handling for server responses.
+
+    Minor UI adjustments.
+
+v0.0.3 - Performance Improvements
+
+    Optimized rendering for smoother gameplay.
+
+    Reduced memory footprint.
+
+v0.0.4 - UI Refinements
+
+    Updated button styles.
+
+    Improved font readability.
+
+v0.0.5 - Network Stability
+
+    Enhanced packet handling for reduced lag.
+
+    Added reconnection logic.
+
+v0.0.6 - Settings Integration
+
+    Introduced initial 'Config' panel.
+
+    Added toggle for sound effects.
+
+v0.0.7 - Minor Bug Squashes
+
+    Addressed various small UI glitches.
+
+    Improved logging for debugging.
+
+v0.0.8 - Backend Optimizations
+
+    Faster data processing.
+
+    Reduced server load.
+
+v0.0.9 - User Experience Tweaks
+
+    Improved hover states for buttons.
+
+    More intuitive navigation.
+
+v0.0.10 - Hotfix for Critical Bug
+
+    Fixed a bug causing client crashes on specific actions.
+
+v0.0.11 - Visual Update
+
+    New icons for main navigation.
+
+    Subtle animations added to UI elements.
+
+v0.0.12 - Improved Error Messages
+
+    More descriptive error messages for common issues.
+
+v0.0.13 - Security Enhancements
+
+    Added basic data validation for inputs.
+
+v0.0.14 - Minor Layout Adjustments
+
+    Optimized layout for smaller window sizes.
+
+v0.0.15 - Refactored Core Components
+
+    Internal code restructuring for future features.
+
+v0.0.16 - Performance Boosts
+
+    Further optimizations for startup time.
+
+v0.0.17 - UI Responsiveness
+
+    Improved how UI elements scale with window resizing.
+
+v0.0.18 - Localization Support (Partial)
+
+    Preparatory work for multi-language support.
+
+v0.0.19 - Small Bug Fixes
+
+    General stability improvements.
+
+v0.0.20 - Feature Expansion - Data Display
+
+    Added basic data tables to one of the pages.
+
+v0.0.21 - UI Polish
+
+    Adjusted padding and margins across the app.
+
+v0.0.22 - Backend Service Upgrade
+
+    Updated internal communication protocols.
+
+v0.0.23 - Accessibility Improvements
+
+    Increased contrast for certain text elements.
+
+v0.0.24 - Dependency Updates
+
+    Updated CustomTkinter to a newer version.
+
+v0.0.25 - Critical Performance Hotfix
+
+    Addressed a slowdown introduced in v0.0.20.
+
+v0.0.26 - Enhanced Logging
+
+    More detailed logs for debugging network issues.
+
+v0.0.27 - UI Consistency
+
+    Ensured consistent styling across all pages.
+
+v0.0.28 - Minor Feature Additions
+
+    Small quality-of-life improvements.
+
+v0.0.29 - Code Refinement
+
+    Removed deprecated code paths.
+
+v0.0.30 - Network Resilience
+
+    Improved handling of intermittent network disconnections.
+
+v0.0.31 - Display Enhancements
+
+    Better rendering of long text strings.
+
+v0.0.32 - Bug Resolution
+
+    Fixed a specific issue with input fields not clearing correctly.
+
+v0.0.33 - Performance Tuning
+
+    Micro-optimizations in data parsing.
+
+v0.0.34 - UI Feedback
+
+    Added subtle visual feedback for button presses.
+
+v0.0.35 - Stability Patch
+
+    Addressed rare crashes reported by users.
+
+v0.0.36 - Small Visual Fixes
+
+    Corrected minor graphical glitches.
+
+v0.0.37 - Code Clean-up
+
+    Removed unused variables and functions.
+
+v0.0.38 - Resource Management
+
+    Improved how application resources are loaded and unloaded.
+
+v0.0.39 - Dependency Check
+
+    Ensured compatibility with latest Python versions.
+
+v0.0.40 - Major UI Reorganization (Minor)
+
+    Reorganized some elements on the "Config" page for clarity.
+
+v0.0.41 - Error Handling Expansion
+
+    More specific error messages for API failures.
+
+v0.0.42 - Performance Refinement
+
+    Reduced CPU usage during idle states.
+
+v0.0.43 - Hotfix for display issue
+
+    Fixed text overlapping in certain resolutions.
+
+v0.0.44 - Small Bug Fixes
+
+    Addressed several minor reported issues.
+
+v0.0.45 - Improved User Prompts
+
+    Clearer instructions for user interaction.
+
+v0.0.46 - Framework Update
+
+    Applied latest security patches from CustomTkinter.
+
+v0.0.47 - Stability Pass
+
+    Further general stability improvements.
+
+v0.0.48 - Minor Aesthetic Adjustments
+
+    Tweaked colors for better contrast.
+
+v0.0.49 - Resource Loading Optimization
+
+    Faster initial load times for the app.
+
+v0.0.50 - Mid-Milestone Update
+
+    Consolidated various small improvements and bug fixes from previous minor versions.
+
+    Prepared groundwork for v0.1.0 release with new major features.
